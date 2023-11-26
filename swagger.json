@@ -5,7 +5,7 @@
     "description": "Contacts API for School",
     "version": "1.0.0"
   },
-  "host": "https://project-1-contacts-jko6.onrender.com",
+  "host": "project-1-contacts-jko6.onrender.com",
   "basePath": "/",
   "schemes": [
     "https"
